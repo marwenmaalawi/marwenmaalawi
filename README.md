@@ -95,7 +95,7 @@ I have worked across **various industries**, integrating advanced technologies t
 ---
 
 ## 📫 Connect with Me  
-📩 **Contact me via email:** [mohamedmarwen.maalawi@gmail.com](mailto:mohamedmarwen.maalawi@gmail.com)
+
 
 <p align="center">
    <a href="https://www.linkedin.com/in/mohamed-marwen-maalawi-61692620b">
@@ -104,7 +104,7 @@ I have worked across **various industries**, integrating advanced technologies t
    <a href="https://github.com/marwenmaalawi">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
    </a>
-     <a href="mailto:mohamedmarwen.maalawi@gmail.com">
-      <img src="https://img.shields.io/badge/Email-mohamedmarwen.maalawi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-   </a>
+
 </p>
+
+📩 **Contact me via email:** [mohamedmarwen.maalawi@gmail.com](mailto:mohamedmarwen.maalawi@gmail.com)
