@@ -90,7 +90,7 @@ I have worked across **various industries**, integrating advanced technologies t
 
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=marwenmaalawi&theme=tokyonight&hide_current_streak=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marwenmaalawi&theme=tokyonight&hide_current_streak=true)
 
 ---
 
