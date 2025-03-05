@@ -97,7 +97,7 @@ I have worked across **various industries**, integrating advanced technologies t
 ## 📫 Connect with Me  
 
 <p align="center">
-   <a href="[https://linkedin.com/in/marwenmaalawi](https://www.linkedin.com/in/mohamed-marwen-maalawi-61692620b/)">
+   <a href="https://www.linkedin.com/in/mohamed-marwen-maalawi-61692620b">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a href="https://github.com/marwenmaalawi">
