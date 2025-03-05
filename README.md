@@ -95,6 +95,7 @@ I have worked across **various industries**, integrating advanced technologies t
 ---
 
 ## 📫 Connect with Me  
+📩 **Contact me via email:** [mohamedmarwen.maalawi@gmail.com](mailto:mohamedmarwen.maalawi@gmail.com)
 
 <p align="center">
    <a href="https://www.linkedin.com/in/mohamed-marwen-maalawi-61692620b">
